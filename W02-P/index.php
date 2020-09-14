@@ -1,7 +1,7 @@
 <?php
   //날짜 계산을 위해 시간 Asia/Seoul로 설정
   date_default_timezone_set('Asia/Seoul');
-  $db_link = mysqli_connect("localhost", "root", "gees00409", "dbp");
+  $db_link = mysqli_connect("localhost", "root", "rootroot", "dbp");
   $query = 'SELECT * FROM bands';
 
   $result = mysqli_query($db_link, $query);
