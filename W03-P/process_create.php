@@ -9,7 +9,7 @@
 
     $query = "INSERT INTO bands (
       name, description, why_love, favorite_album_formed
-    ) VALUES ('{$_POST['name']}', '{$_POST['description']}', '{$_POST['why_love']}', '{$_POST['favorite_album_formed']}')";
+    ) VALUES ('{$filtered['name']}', '{$filtered['description']}', '{$filtered['why_love']}', '{$filtered['favorite_album_formed']}')";
 
     $result = mysqli_multi_query($db_link, $query);
 
