@@ -2,7 +2,7 @@
     $link = mysqli_connect('localhost', 'admin', 'admin', 'employees');
     $filtered_name = mysqli_real_escape_string($link, $_POST['search']);
 
-    $query = "SELECT * FROM employees WHERE first_name like '%{$filtered_name}%'";
+    $query = "SELECT * FROM employees WHERE first_name like '%{$filtered_name}%' LIMIT 100";
     $result = mysqli_query($link, $query);
     
     $emp_search = '';
