@@ -3,7 +3,7 @@ layout: post
 title:  "DB 설계가 쉽지 않습니다."
 date:   2021-01-05
 author: MYOH(최은오)
-categories: Winter Internship
+categories: WinterInternship
 ---
 
 1. 2일차입니다. 오늘은 이클립스 환경 설정을 마친 후 본격적으로 코드를 살펴보며 분석하고 이전에 시스템을 구축했던 다른 인턴분에게서 기존 DB의 구조와 시스템의 흐름에 대해 설명을 들었습니다.  

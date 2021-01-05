@@ -3,7 +3,7 @@ layout: post
 title:  "첫 출근을 했습니다."
 date:   2021-01-04
 author: MYOH(최은오)
-categories: Winter Internship
+categories: WinterInternship
 ---
 
 1. 인턴을 하게 되었습니다.  
