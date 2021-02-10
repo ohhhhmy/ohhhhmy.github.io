@@ -12,7 +12,7 @@
 
    ```html
    <form>
-      	<input type="radio" value="1" disabled>
+       <input type="radio" value="1" disabled>
        <input type="radio" value="0" disabled>
    </form>
    ```
@@ -25,7 +25,7 @@
 
    그렇다면 radio 버튼을 누르지 못하게 할 방법은? 기본적으로 radio는 readonly도 먹지 않습니다. 
 
-     ```
+     ```html
    <form>
       	<input class="report" type="radio" value="1" readonly>
       	<input class="report" type="radio" value="0" readonly>
