@@ -1,6 +1,6 @@
 ---
 layout: post
-title: System Programming 프로그램 컴파일과 실행
+title: System Programming C++에서 C로
 date: 2021-03-16
 author: OH
 categories: SystemProgramminig
