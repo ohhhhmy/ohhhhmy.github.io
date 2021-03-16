@@ -58,11 +58,11 @@ option으로 -c  = 링크는 하지 않고 컴파일까지만 함. `.o` 파일�
 
 오류가 있는 상태에서 컴파일하면 오류 메시지를 출력한다. 만약 아래처럼 ;을 빼먹은 채로 저장을 한 후 컴파일을 했다고 해보자.  
 
-![Syntax Error](../img/syntaxerror.png)  
+![Syntax Error](/img/syntaxerror.png)  
 
 이 파일을 컴파일하면  
 
-![Compile Error](../img/gccerror.png) 
+![Compile Error](/img/gccerror.png) 
 
 이렇게 오류 메시지를 출력한다.  
 
@@ -224,7 +224,7 @@ three : one.c two.c three.c
 
 그리고 make three를 실행하면 터미널에 
 
-![골뱅이 없는 버전](../img/makethreewithoutgol.png)  
+![골뱅이 없는 버전](/img/makethreewithoutgol.png)  
 
  
 
@@ -240,7 +240,7 @@ three : one.c two.c three.c
 
 결과는 아래와 같다.  
 
-![골뱅이 있는 버전](../img/makethreewithgol.png)
+![골뱅이 있는 버전](/img/makethreewithgol.png)
 
 echo 명령어가 화면에 나타나지 않는 것이다.  
 
