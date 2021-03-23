@@ -1,4 +1,10 @@
-2021-02-05-winterInternship
+---
+layout: post
+title:  "2월의 첫째 주"
+date:   2021-02-05
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 2월의 첫째 주가 지나갑니다.
 

@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-01-21
+author: MYOH(최은오)
+categories: WinterInternship
+---
+
+
+
 1. 교육관리 탭에서 수정 기능을 구현했습니다.
 
    수정에 대한 요구사항은 다음과 같습니다.

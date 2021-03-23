@@ -1,6 +1,10 @@
-2021-02-01-winterInternship
-
-
+---
+layout: post
+title:  "발표 연습 시급"
+date:   2021-02-01
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 발표를 했습니다. 
 

@@ -1,6 +1,10 @@
-title:  "2021-02-03-winterInternship"
+---
+layout: post
+title:  "오늘의 일지"
 date:   2021-02-03
-author: 최은오
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. view 페이지 제작을 마무리해갑니다.
 

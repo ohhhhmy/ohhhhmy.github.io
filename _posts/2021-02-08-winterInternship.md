@@ -1,4 +1,10 @@
-2021-02-08-winterInternship
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-02-08
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 오늘은 프로젝트 관련 DB와 통신하는 메서드 중 project update메서드를 수정했습니다. 이전에 프로젝트 테이블에 도구와 과제 성격, 사업 지역 column을 추가했는데 project를 조회하고 생성하는 메서드에는 이 세 가지 column을 처리할 수 있도록 했지만 update 메서드에는 아직 적용이 안되어 있어 update 메서드에서도 세 가지 column을 처리할 수 있도록 하였습니다. 프로젝트 수정 페이지에서도 세 가지 column을 parameter로 받을 수 있도록 처리했습니다.  
 

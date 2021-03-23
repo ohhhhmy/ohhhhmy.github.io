@@ -1,4 +1,12 @@
-##2021-01-25-winterInternship
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-01-25
+author: MYOH(최은오)
+categories: WinterInternship
+---
+
+
 
 1. 요구사항은 자세할수록 할 일이 적어진다
 

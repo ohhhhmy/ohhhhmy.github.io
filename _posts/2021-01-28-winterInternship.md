@@ -1,4 +1,10 @@
-2021-01-28-winterInternship
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-01-28
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 발표 자료를 제작 중입니다. 
 

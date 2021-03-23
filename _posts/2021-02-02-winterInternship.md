@@ -1,4 +1,10 @@
-2021-02-02-winterInternship
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-02-02
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 권한 관련 이슈 사항을 모두 해결했습니다.
 

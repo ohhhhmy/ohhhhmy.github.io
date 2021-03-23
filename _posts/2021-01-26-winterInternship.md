@@ -1,4 +1,12 @@
-2021-01-26-winterInternship
+---
+layout: post
+title:  "오늘의 일지"
+date:   2021-01-26
+author: MYOH(최은오)
+categories: WinterInternship
+---
+
+
 
 1. 교육 관리 새로 제작하기
 

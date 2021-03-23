@@ -1,4 +1,10 @@
-2021-01-27-winterInternship
+---
+layout: post
+title:  "1월이 끝나갑니다"
+date:   2021-01-27
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. 1월이 끝나갑니다.
 

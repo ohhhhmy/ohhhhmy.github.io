@@ -1,4 +1,10 @@
-2021-02-09-winterInternship
+---
+layout: post
+title:  "sessionStorage 사용해보기"
+date:   2021-02-09
+author: MYOH(최은오)
+categories: WinterInternship
+---
 
 1. sessionStorage를 사용해 보았습니다.
 
